@@ -5,10 +5,10 @@ fué usada usando Fetch, los anuncios aparecen ubicados al azar.
 
 La idea de la app es experimentar la forma en que React maneja el FrontEnd por medio de Componentes.
 
-Todo esto fué realizado siguiendo las siguientes fuentes:
+Todo esto fue realizado siguiendo las siguientes fuentes:
 
 * Documentación oficial de React -> https://reactjs.org/docs
 * Documentación de JavaScript -> https://developer.mozilla.org/es/docs/Web/JavaScript
 * Curso de LinkedIn Learning react.js  -> https://www.linkedin.com/learning/learning-react-js-3 .
 
-Aún es necesario realizar varios ajustes.
+Proyecto aún en proceso.
