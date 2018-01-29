@@ -11,4 +11,4 @@ Todo esto fue realizado siguiendo las siguientes fuentes:
 * Documentación de JavaScript -> https://developer.mozilla.org/es/docs/Web/JavaScript
 * Curso de LinkedIn Learning react.js  -> https://www.linkedin.com/learning/learning-react-js-3 .
 
-Proyecto aún en proceso.
+Proyecto aun en proceso.
