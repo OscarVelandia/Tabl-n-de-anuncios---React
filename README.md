@@ -1,6 +1,6 @@
 # Tablón de anuncios 
 
-App CRUD con React Js, se trata de un tablón de anuncios alimentado con la API Bacon Ipsum (https://baconipsum.com/json-api/)
+App CRUD con React Js, se trata de un tablón de anuncios inicializado con create-react-app, alimentado con la API Bacon Ipsum (https://baconipsum.com/json-api/)
 fué usada usando Fetch, los anuncios aparecen ubicados al azar.
 
 La idea de la app es experimentar la forma en que React maneja el FrontEnd por medio de Componentes.
